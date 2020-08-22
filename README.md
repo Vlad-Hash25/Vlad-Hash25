@@ -2,6 +2,7 @@
 ----
 
 "Don't tell me that something is impossible, as you'll give me all the more reason not to do it."
+"Don't say that a process can't be any more automated, I'll waste time failing to prove you wrong."
 
 ### Interests / Hobbies
   * Systems Administration
